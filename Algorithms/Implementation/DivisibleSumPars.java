@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
+//https://www.hackerrank.com/challenges/divisible-sum-pairs
 public class Testy {
     public static void main(String[] args) {
         ArrayList<Integer> lista=new ArrayList<>();
